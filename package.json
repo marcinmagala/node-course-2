@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-loop.js",
+  "scripts": {
+    "start": "set UV_THREADPOOL_SIZE=2 & node event-loop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinmagala/node-course-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinmagala/node-course-2/issues"
+  },
+  "homepage": "https://github.com/marcinmagala/node-course-2#readme"
+}
